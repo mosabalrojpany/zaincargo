@@ -1,0 +1,1 @@
+[08-Jan-2021 03:55:45 America/Boise] PHP Fatal error:  Out of memory (allocated 779313152) (tried to allocate 36921168 bytes) in phar:///opt/cpanel/composer/bin/composer/src/Composer/Util/RemoteFilesystem.php on line 459
